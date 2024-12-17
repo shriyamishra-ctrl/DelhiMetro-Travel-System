@@ -36,5 +36,7 @@ Usage
 
 Screenshots
 ![image](https://github.com/user-attachments/assets/95810484-3c38-4294-9f57-5bd31d6a055c)
+![image](https://github.com/user-attachments/assets/f566feac-7248-42b5-8167-fa1322deddeb)
+
 
 
